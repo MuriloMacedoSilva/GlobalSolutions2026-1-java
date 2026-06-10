@@ -188,15 +188,6 @@ git clone https://github.com/seu-usuario/apiGlobalSolutions.git
 cd apiGlobalSolutions/api
 ```
 
-### 2. Configure o banco de dados
-
-Edite `src/main/resources/application.properties` com suas credenciais Oracle:
-
-```properties
-spring.datasource.url=jdbc:oracle:thin:@//oracle.fiap.com.br:1521/orcl
-spring.datasource.username=SEU_RM
-spring.datasource.password=SUA_SENHA
-```
 
 ### 3. Execute a aplicação
 
@@ -236,11 +227,11 @@ Com a aplicação rodando, acesse:
 
 | Nome | RM |
 |---|---|
-| Murilo | RM566462 |
-| — | — |
-| — | — |
-| — | — |
-| — | — |
+| Murilo Macedo | RM566462 |
+| Thiago Sposito | RM561694 |
+| Pedro Gomez | RM562606 |
+| Lucas Lopes | RM563544 |
+| Vitor Madrigrano | RM564191 |
 
 > *Projeto desenvolvido para a Global Solutions da FIAP (2025/2026).*
 
