@@ -104,6 +104,9 @@ O projeto segue o padrão **MVC** com a seguinte camada:
 
 ## 🔌 Endpoints da API
 
+# Agora a api também esta hospedada no Render : 
+https://globalsolutions2026-1-java-3.onrender.com
+
 ### 👤 Produtores
 
 | Método | Rota | Descrição |
